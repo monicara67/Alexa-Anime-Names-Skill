@@ -10,7 +10,7 @@ This project was my introduction to AWS Toolkit features along with Amazaon Alex
 The Amazon development web sites were of great help, providing tutorials and sample code.
 
 All of the handler classes were based on sample code that was provided by Amazon. 
-However, the following classes were written by me to provide the core skill logic of processing the person's name and generating the anime name.
+However, the following classes were written by me to provide the skill logic for processing the person's name and generating the anime name.
 
   -  [com.monica.alexa.animename.handlers.MyNameIsIntentHandler](https://github.com/monicara67/AlexaAnimeNamesSkill/blob/master/AlexaAnimeNamesSkill/src/main/java/com/monica/alexa/animename/handlers/MyNameIsIntentHandler.java)
 
