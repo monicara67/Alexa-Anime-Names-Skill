@@ -1,0 +1,17 @@
+
+Greetings!  
+
+These JSON files are also located in the directory for the utils package (com.monica.alex.animaename.util):
+
+- FirstNameMap.json
+- MiddleNameMap.json
+- LastNameMap.json
+
+They were copied to this directory to work around an issue that was encountered while testing after deployment to AWS cloud.
+Since these files are read from the JAR file, in order for the class that is reading the files to locate them
+they must reside in the same JAR directory.
+The app generated a "file not found" exception while I was testing after deploying.
+This error did not occur when tested locally in the IDE. ( Makes life more interesting, right? :-)
+
+At the moment, this was the simplest solution, given the time constraints.
+I will revisit a approach in a later iteration of this code.

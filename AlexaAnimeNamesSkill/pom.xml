@@ -1,0 +1,22 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.skill.alexa.monica</groupId>
+  <artifactId>AlexaAnimeNamesSkill</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+ <dependencies> 
+	<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.module/jackson-module-jsonSchema -->
+	<dependency>
+	    <groupId>com.fasterxml.jackson.module</groupId>
+	    <artifactId>jackson-module-jsonSchema</artifactId>
+	    <version>2.10.2</version>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/com.amazon.alexa/ask-sdk -->
+    <dependency>
+        <groupId>com.amazon.alexa</groupId>
+        <artifactId>ask-sdk</artifactId>
+        <version>2.17.0</version>
+    </dependency>
+    <!-- https://github.com/aws/aws-lambda-java-libs/blob/master/aws-lambda-java-log4j2/pom.xml -->
+    <!--  Have not implemented Log4J yet.  Placed here as reminder for future iteration.  -->
+</dependencies>
+</project>
