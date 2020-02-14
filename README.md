@@ -1,5 +1,5 @@
 # AlexaAnimeNamesSkill
-Custom Alexa Skill for generating anime names based on a person's name.
+##Custom Alexa Skill for generating anime names based on a person's name##
 
 Hello!  This is my first custom Amazon Alexa Skill.  
 
