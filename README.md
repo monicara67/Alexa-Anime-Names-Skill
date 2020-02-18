@@ -6,7 +6,7 @@ Hello!  This is my first custom Amazon Alexa Skill.
 When you invoke the skill by saying "*Alexa, open anime name*," it will prompt you for your first, middle and last name. 
 Alexa will then generate your custom anime series name based on your initials.
 
-This project was my introduction to AWS Toolkit features along with Amazaon Alexa custom skill development.  
+This project was my introduction to AWS Toolkit features along with Amazon Alexa custom skill development.  
 The Amazon development web sites were of great help, providing tutorials and sample code.
 
 All of the handler classes were based on sample code that was provided by Amazon. 
